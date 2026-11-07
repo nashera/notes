@@ -1,0 +1,72 @@
+{
+  "open_files": [
+    "新笔记.md",
+    "有用的命令.md",
+    "claude_code/新笔记1.md",
+    "claude_code/新图谱.mindzj",
+    "claude_code/新笔记.md"
+  ],
+  "active_file": "claude_code/新笔记.md",
+  "primary_pane_path": "claude_code/新笔记.md",
+  "secondary_pane_path": null,
+  "active_pane_slot": "primary",
+  "split_direction": "right",
+  "split_ratio": 0.5,
+  "sidebar_tab": "files",
+  "sidebar_collapsed": false,
+  "sidebar_width": 208,
+  "sidebar_tab_order": [
+    "files",
+    "outline",
+    "search",
+    "calendar"
+  ],
+  "file_scroll_positions": {
+    "claude_code/新笔记1.md": {
+      "live-preview": 0
+    },
+    "New note.md": {
+      "live-preview": 0,
+      "reading": 0,
+      "source": 0
+    },
+    "有用的命令.md": {
+      "live-preview": 0
+    },
+    "claude_code/新笔记.md": {
+      "live-preview": 261
+    },
+    "test/New note.md": {
+      "live-preview": 0
+    },
+    "test/新笔记1.md": {
+      "live-preview": 549,
+      "reading": 0
+    },
+    "新笔记.md": {
+      "live-preview": 0
+    }
+  },
+  "file_top_lines": {
+    "New note.md": 1,
+    "claude_code/新笔记1.md": 1,
+    "test/新笔记1.md": 4,
+    "有用的命令.md": 1,
+    "test/New note.md": 1,
+    "claude_code/新笔记.md": 9,
+    "新笔记.md": 1
+  },
+  "file_view_modes": {
+    "test/新笔记1.md": "live-preview",
+    "New note.md": "source"
+  },
+  "file_last_non_reading_view_modes": {
+    "New note.md": "source",
+    "test/新笔记1.md": "live-preview"
+  },
+  "window_x": null,
+  "window_y": null,
+  "window_width": null,
+  "window_height": null,
+  "window_maximized": null
+}

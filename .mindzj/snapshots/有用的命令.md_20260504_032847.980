@@ -1,0 +1,10 @@
+# powershell
+
+
+
+```ps1
+.\upload_md_images_batch.ps1 -SourceDir C:\Users\zhangxi\Documents\notes\ -CleanImg
+```
+
+
+https://geek-blogs.com/blog/linux-history-file/

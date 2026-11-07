@@ -1,0 +1,6 @@
+# powershell
+
+
+
+```
+.\upload_md_images_batch.ps1 -SourceDir C:\Users\zhangxi\Documents\notes\ -CleanImg
