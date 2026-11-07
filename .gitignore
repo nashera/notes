@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SoloMD AutoGit defaults
 .DS_Store
 Thumbs.db
@@ -10,3 +11,7 @@ node_modules/
 *~
 # SoloMD workspace metadata — per-device, do not sync.
 .solomd/
+=======
+*~
+*#
+>>>>>>> master
